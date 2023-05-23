@@ -1,1 +1,1 @@
-cd /data/local/tmp && ./inject32 -f -n com.tencent.ig -so /data/local/tmp/libBit322.4.so
+./inject64 -f -n com.tencent.ig -so libTomato.so
