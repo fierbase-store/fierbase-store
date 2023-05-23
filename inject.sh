@@ -1,0 +1,1 @@
+cd /data/local/tmp && ./inject32 -f -n com.tencent.ig -so /data/local/tmp/libBit322.4.so
