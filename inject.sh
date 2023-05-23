@@ -1,1 +1,1 @@
-cd /data/data/com.cp.jo/shared_prefs/ && ./inject64 -f -n com.tencent.ig -so /data/data/com.cp.jo/shared_prefs/libTomato.so
+cd /data/local/tmp && ./inject64 -f -n com.tencent.ig -so /data/local/tmp/libTomato.so
