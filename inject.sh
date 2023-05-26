@@ -1,1 +1,0 @@
-cd /data/local/tmp && ./inject64 -f -n com.tencent.ig -so /data/local/tmp/libTomato.so
